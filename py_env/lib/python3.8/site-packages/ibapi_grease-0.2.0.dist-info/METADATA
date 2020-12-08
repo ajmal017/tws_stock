@@ -1,0 +1,13 @@
+Metadata-Version: 2.0
+Name: ibapi-grease
+Version: 0.2.0
+Summary: Monkey patches to grease the Interactive Brokers Python API
+Home-page: https://github.com/quantrocket-llc/ibapi-grease
+Author: QuantRocket LLC
+Author-email: support@quantrocket.com
+License: Apache 2.0
+Platform: UNKNOWN
+
+UNKNOWN
+
+
